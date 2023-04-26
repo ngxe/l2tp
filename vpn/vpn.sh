@@ -1,4 +1,6 @@
 #!/bin/sh
+
+name: l2tp
 #
 # Script for automatic setup of an IPsec VPN server on Ubuntu, Debian, CentOS/RHEL,
 # Rocky Linux, AlmaLinux, Oracle Linux, Amazon Linux 2 and Alpine Linux
